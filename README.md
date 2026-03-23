@@ -1,8 +1,8 @@
-# AI-Prompt-Generator
+# AI Prompt Generator
 
 Generates diverse, categorised AI prompts and appends to master prompt library
 
-Built by [Naadir](https://github.com/Naadir-Dev-Portfolio)
+Built by [Naadir](https://github.com/Naadir Dev Portfolio)
 
 ## Overview
 
@@ -10,7 +10,7 @@ Generate creative and diverse AI prompts across multiple domains and use cases. 
 
 ## Features
 
-- Multi-category prompt generation (creative, technical, analytical, etc.)
+- Multi category prompt generation (creative, technical, analytical, etc.)
 - Automatic prompt categorization and tagging
 - Master library aggregation and deduplication
 - Batch processing for large-scale prompt creation
@@ -18,7 +18,7 @@ Generate creative and diverse AI prompts across multiple domains and use cases. 
 
 ## Tech Stack
 
-Python · LLM APIs · prompt engineering
+Python · LLM APIs · prompt-engineering
 
 ## Setup
 
