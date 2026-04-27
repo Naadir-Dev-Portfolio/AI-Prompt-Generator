@@ -1,7 +1,7 @@
 {
   "section": "ai",
-  "category": "prompt",
-  "n": 1,
+  "category": "generativeai",
+  "n": 3,
   "title": "AI Prompt Generator",
   "desc": "Generates 1000+ diverse, categorised AI prompts and appends them to a master library, covers creative, technical, educational and analytical domains.",
   "code": "https://github.com/Naadir-Dev-Portfolio/AI-Prompt-Generator/blob/main/main.py",
